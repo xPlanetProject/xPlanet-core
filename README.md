@@ -1,2 +1,2 @@
-# xSwap-core
+# xPlanet-core
 xPlanet xSwap
